@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/calculadora",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -99,6 +99,6 @@
     }
   },
   "cli": {
-    "analytics": "067cc3b4-bd81-48c3-988b-c0893362b303"
+    "analytics": "ed548c80-66b3-4876-a35e-a966c64415d0"
   }
 }
